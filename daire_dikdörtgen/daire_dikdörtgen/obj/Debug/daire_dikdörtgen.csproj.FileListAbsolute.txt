@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Dersler\C#\daire_dikdörtgen\daire_dikdörtgen\bin\Debug\daire_dikdörtgen.exe.config
+C:\Users\User\Desktop\Dersler\C#\daire_dikdörtgen\daire_dikdörtgen\bin\Debug\daire_dikdörtgen.exe
+C:\Users\User\Desktop\Dersler\C#\daire_dikdörtgen\daire_dikdörtgen\bin\Debug\daire_dikdörtgen.pdb
+C:\Users\User\Desktop\Dersler\C#\daire_dikdörtgen\daire_dikdörtgen\obj\Debug\daire_dikdörtgen.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Dersler\C#\daire_dikdörtgen\daire_dikdörtgen\obj\Debug\daire_dikdörtgen.Form1.resources
+C:\Users\User\Desktop\Dersler\C#\daire_dikdörtgen\daire_dikdörtgen\obj\Debug\daire_dikdörtgen.Properties.Resources.resources
+C:\Users\User\Desktop\Dersler\C#\daire_dikdörtgen\daire_dikdörtgen\obj\Debug\daire_dikdörtgen.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Dersler\C#\daire_dikdörtgen\daire_dikdörtgen\obj\Debug\daire_dikdörtgen.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dersler\C#\daire_dikdörtgen\daire_dikdörtgen\obj\Debug\daire_dikdörtgen.exe
+C:\Users\User\Desktop\Dersler\C#\daire_dikdörtgen\daire_dikdörtgen\obj\Debug\daire_dikdörtgen.pdb
